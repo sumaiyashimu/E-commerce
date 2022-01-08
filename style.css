@@ -1,0 +1,61 @@
+
+.container{
+    margin-bottom: 70px;
+}
+.logo-style img{
+    width: 70px;
+    
+}
+
+.button-link{
+    border: none;
+    background-color: black;
+    color: white;
+    padding: 5px 20px ;
+    border-radius: 10px;
+    
+}
+.carousol-item{
+    padding: 10px 20px;
+}
+
+.carousol-banner{
+    background-image: url('imeges/bg-1.png');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.txt-center {
+    text-align: center;
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+
+}
+
+h6{
+    color: orange;
+    text-align: right; 
+    padding: 10px 10px;
+
+}
+.img-width img{
+   
+    width: 100%;
+}
+.position img{
+    height: 200px;
+    width: 100px;
+    
+
+}
+.txt-center-cate{
+    text-align: center;
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+    height: 200px;
+    
+}
+
+
+
